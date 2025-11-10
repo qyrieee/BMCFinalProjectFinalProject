@@ -9,11 +9,11 @@ import 'package:ecommerce_app/providers/cart_provider.dart'; // 1. ADD THIS
 import 'package:provider/provider.dart'; // 2. ADD THIS
 import 'package:google_fonts/google_fonts.dart'; // 1. ADD THIS IMPORT
 
-// 2. --- ADD OUR NEW APP COLOR PALETTE ---
-const Color kRichBlack = Color(0xFF0F0F14); // Tokyonight Day Ink Black
-const Color kBrown = Color(0xFF2D79C7); // Tokyonight Day Country Blue
-const Color kLightBrown = Color(0xFF73DACA); // Tokyonight Day Light Green
-const Color kOffWhite = Color(0xFFD5D6DB); // Tokyonight Day Almost White
+// 2. --- VEGETABLE GREENISH THEME COLOR PALETTE ---
+const Color kRichBlack = Color(0xFF212121); // Charcoal Gray for text
+const Color kBrown = Color(0xFF2E7D32); // Rich, dark green for primary elements
+const Color kLightBrown = Color(0xFFA5D6A7); // Lighter, earthy green for accents
+const Color kOffWhite = Color(0xFFF1F8E9); // Soft, off-white or light beige for backgrounds
 // --- END OF COLOR PALETTE ---
 
 void main() async {

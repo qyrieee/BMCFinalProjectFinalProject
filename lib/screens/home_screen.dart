@@ -84,7 +84,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
         // 2. ADD this new title:
         title: Image.asset(
-          'assets/images/app_logo.png', // 3. The path to your logo
+          'assets/image/app_logo.png', // 3. The path to your logo
           height: 40, // 4. Set a fixed height
         ),
 
